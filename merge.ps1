@@ -1,4 +1,4 @@
-﻿# merge_translations.ps1
+﻿# merge.ps1
 param(
     [string]$RootDir = ".",
     [switch]$Backup = $true
